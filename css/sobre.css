@@ -1,5 +1,6 @@
 .interna_sobre {
     background: url(../assets/img/bg-sobre.jpg) no-repeat center;
+    background-size: cover;
 }
 
 .introducao-interna h1 {
